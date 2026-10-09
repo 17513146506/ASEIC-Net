@@ -17,5 +17,4 @@ about 80 s per inspection without pelletization.
 
 ## Availability
 
-If the associated paper is accepted, the full code implementation and a small
-set of example industrial field data will be released in this repository.
+A small subset of LIBS raw example data (`Raw example data.csv`) is provided in this repository.
